@@ -1,2 +1,2 @@
 # StartTOTVSIP
-/*Esses são os exercícios desenvolvidos durante o curso StartTOTVSIP.*/
+/*Esses são os exercícios desenvolvidos durante o curso StartTOTVSIPTM-2aEdição.*/
